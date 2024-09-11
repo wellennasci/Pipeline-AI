@@ -1,0 +1,14 @@
+SISTEMA DE CRM - ARMAZENA OS DADOS DE VENDA
+
+streamlit - cria aplicações web
+
+SQL ALCHEMY  - Conecta o código python no sql
+
+pydantic - valida os campos se os campos estão certos ou errados..valida os dados..é um data contract
+
+pandera--faz validação de dataframes
+
+mkdocs - documenta os projetos
+
+BANCO DE DADOS
+CRUD - CREATE..READ..UPDATE..DELETE
